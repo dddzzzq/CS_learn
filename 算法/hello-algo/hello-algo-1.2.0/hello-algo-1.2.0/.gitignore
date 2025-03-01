@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# editors
+.vscode/
+**/.idea
+
+# mkdocs files
+.cache/
+
+# build
+/build
+/site
+/utils
